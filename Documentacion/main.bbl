@@ -1,0 +1,243 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{A028:chou1996radio}{article}{}
+      \name{author}{9}{}{%
+        {{hash=6ba7e5f01915124ff6a9bd94834298c1}{%
+           family={Chou},
+           familyi={C\bibinitperiod},
+           given={C\bibnamedelima Kc},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=82d41037226b0ae02ceaad7184ce91ea}{%
+           family={Bassen},
+           familyi={B\bibinitperiod},
+           given={Howard},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3c8f96977cdc9be516bd41f80cd32f0f}{%
+           family={Osepchuk},
+           familyi={O\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=33bfc99a82f0cb8eb0b23abe29ee4798}{%
+           family={Balzano},
+           familyi={B\bibinitperiod},
+           given={Q},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=cfb86866b1e683a58f7a56e1ec338b6f}{%
+           family={Petersen},
+           familyi={P\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=977b8571cf6256260d3364418db0794b}{%
+           family={Meltz},
+           familyi={M\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=36d89fc2684e3b972e5ec9011e96b883}{%
+           family={Cleveland},
+           familyi={C\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5bccf6ffbc24b4617804b8cf79ffa259}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={JC},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9705aa79e7f014518eb7df86e75bfe44}{%
+           family={Heynick},
+           familyi={H\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{519e00b29a68c75ff1a1dfd1814d5239}
+      \strng{fullhash}{1c9169a8e9378aa57dfb1a13812627e5}
+      \strng{bibnamehash}{519e00b29a68c75ff1a1dfd1814d5239}
+      \strng{authorbibnamehash}{519e00b29a68c75ff1a1dfd1814d5239}
+      \strng{authornamehash}{519e00b29a68c75ff1a1dfd1814d5239}
+      \strng{authorfullhash}{1c9169a8e9378aa57dfb1a13812627e5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioelectromagnetics: Journal of the Bioelectromagnetics Society, The Society for Physical Regulation in Biology and Medicine, The European Bioelectromagnetics Association}
+      \field{number}{3}
+      \field{title}{Radio frequency electromagnetic exposure: Tutorial review on experimental dosimetry}
+      \field{volume}{17}
+      \field{year}{1996}
+      \field{pages}{195\bibrangedash 208}
+      \range{pages}{14}
+    \endentry
+    \entry{A007:farrer2015characterization}{article}{}
+      \name{author}{7}{}{%
+        {{hash=137f79989adf12c5863df3b85253fae0}{%
+           family={Farrer},
+           familyi={F\bibinitperiod},
+           given={Alexis\bibnamedelima I},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=f36f9edac68024c362da93431d2f9447}{%
+           family={Od{é}en},
+           familyi={O\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0c2c8c35f66e0ee3630bd49dd20f27ba}{%
+           family={Bever},
+           familyi={B\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=d7e00f17588e5fec63138bf19b0782f0}{%
+           family={Coats},
+           familyi={C\bibinitperiod},
+           given={Brittany},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fd1acfad19f273fc30805541bcca5272}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Dennis\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c7a02a5076086f5db0f9ae8f6e9ab08b}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Allison},
+           giveni={A\bibinitperiod}}}%
+        {{hash=36a4ab77100211df85ca784b38a2d74a}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Douglas\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{46aeeaf227597b336ddf840422e37aa0}
+      \strng{fullhash}{9bf750c98fa03168f6d0874225c53bc7}
+      \strng{bibnamehash}{46aeeaf227597b336ddf840422e37aa0}
+      \strng{authorbibnamehash}{46aeeaf227597b336ddf840422e37aa0}
+      \strng{authornamehash}{46aeeaf227597b336ddf840422e37aa0}
+      \strng{authorfullhash}{9bf750c98fa03168f6d0874225c53bc7}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of therapeutic ultrasound}
+      \field{number}{1}
+      \field{title}{Characterization and evaluation of tissue-mimicking gelatin phantoms for use with MRgFUS}
+      \field{volume}{3}
+      \field{year}{2015}
+      \field{pages}{9}
+      \range{pages}{1}
+    \endentry
+    \entry{A029:kurenov2015three}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1b0d48bffc4ca22b3d88821c8009190f}{%
+           family={Kurenov},
+           familyi={K\bibinitperiod},
+           given={Sergei\bibnamedelima N},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=ca90ddd5e92a08e2c1465b44f0519fbb}{%
+           family={Ionita},
+           familyi={I\bibinitperiod},
+           given={Ciprian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b3b5fd0e76b3eafc3d65465d540e088a}{%
+           family={Sammons},
+           familyi={S\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1d02034e83900fd30e02651ae77bb904}{%
+           family={Demmy},
+           familyi={D\bibinitperiod},
+           given={Todd\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7e1c4bcff3008897c3829d2a9a7a08b9}
+      \strng{fullhash}{e358c97a5c25145ef2d5591edb65c3d2}
+      \strng{bibnamehash}{7e1c4bcff3008897c3829d2a9a7a08b9}
+      \strng{authorbibnamehash}{7e1c4bcff3008897c3829d2a9a7a08b9}
+      \strng{authornamehash}{7e1c4bcff3008897c3829d2a9a7a08b9}
+      \strng{authorfullhash}{e358c97a5c25145ef2d5591edb65c3d2}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of thoracic and cardiovascular surgery}
+      \field{number}{4}
+      \field{title}{Three-dimensional printing to facilitate anatomic study, device development, simulation, and planning in thoracic surgery}
+      \field{volume}{149}
+      \field{year}{2015}
+      \field{pages}{973\bibrangedash 979}
+      \range{pages}{7}
+    \endentry
+    \entry{A019:lazebnik2005tissue}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b8389dc87340e777aa03ffa84083dfcf}{%
+           family={Lazebnik},
+           familyi={L\bibinitperiod},
+           given={Mariya},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e1514cdc19daef370a0bc8ffd605ffce}{%
+           family={Madsen},
+           familyi={M\bibinitperiod},
+           given={Ernest\bibnamedelima L},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d5ecd505973f1e250a4062cb7c4e8db9}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Gary\bibnamedelima R},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=5150cbc0b19680358ecc53176558307c}{%
+           family={Hagness},
+           familyi={H\bibinitperiod},
+           given={Susan\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{ed9997eb2acb1e60fd57e111c6299ca9}
+      \strng{fullhash}{d75ee03d6cab0398020ea3df5900758b}
+      \strng{bibnamehash}{ed9997eb2acb1e60fd57e111c6299ca9}
+      \strng{authorbibnamehash}{ed9997eb2acb1e60fd57e111c6299ca9}
+      \strng{authornamehash}{ed9997eb2acb1e60fd57e111c6299ca9}
+      \strng{authorfullhash}{d75ee03d6cab0398020ea3df5900758b}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physics in Medicine \& Biology}
+      \field{number}{18}
+      \field{title}{Tissue-mimicking phantom materials for narrowband and ultrawideband microwave applications}
+      \field{volume}{50}
+      \field{year}{2005}
+      \field{pages}{4245}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

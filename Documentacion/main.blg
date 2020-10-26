@@ -1,0 +1,51 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[4] Config.pm:307> INFO - Logfile is 'main.blg'
+[354] biber-MSWIN64:322> INFO - === 
+[689] Biber.pm:415> INFO - Reading 'main.bcf'
+[875] Biber.pm:943> INFO - Found 4 citekeys in bib section 0
+[980] Biber.pm:4256> INFO - Processing section 0
+[981] Utils.pm:75> INFO - Globbing data source 'articulos.bib'
+[1082] Utils.pm:91> INFO - Globbed data source 'articulos.bib' to articulos.bib
+[1083] Utils.pm:75> INFO - Globbing data source 'scilivresbib.bib'
+[1086] Utils.pm:91> INFO - Globbed data source 'scilivresbib.bib' to scilivresbib.bib
+[1086] Utils.pm:75> INFO - Globbing data source 'revisar.bib'
+[1089] Utils.pm:91> INFO - Globbed data source 'revisar.bib' to revisar.bib
+[1172] Biber.pm:4455> INFO - Looking for bibtex format file 'articulos.bib' for section 0
+[1195] bibtex.pm:1653> INFO - LaTeX decoding ...
+[1278] bibtex.pm:1471> INFO - Found BibTeX data source 'articulos.bib'
+[1567] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 2, warning: 4 characters of junk seen at toplevel
+[1568] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 13, warning: 4 characters of junk seen at toplevel
+[1568] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 24, warning: 4 characters of junk seen at toplevel
+[1568] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 35, warning: 4 characters of junk seen at toplevel
+[1568] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 46, warning: 4 characters of junk seen at toplevel
+[1569] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 55, warning: 4 characters of junk seen at toplevel
+[1569] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 65, warning: 4 characters of junk seen at toplevel
+[1569] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 76, warning: 4 characters of junk seen at toplevel
+[1569] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 87, warning: 4 characters of junk seen at toplevel
+[1570] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 98, warning: 4 characters of junk seen at toplevel
+[1570] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 109, warning: 4 characters of junk seen at toplevel
+[1570] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 118, warning: 4 characters of junk seen at toplevel
+[1570] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 128, warning: 4 characters of junk seen at toplevel
+[1570] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 138, warning: 4 characters of junk seen at toplevel
+[1571] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 147, warning: 4 characters of junk seen at toplevel
+[1571] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 157, warning: 4 characters of junk seen at toplevel
+[1571] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 167, warning: 4 characters of junk seen at toplevel
+[1571] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 176, warning: 4 characters of junk seen at toplevel
+[1571] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 187, warning: 4 characters of junk seen at toplevel
+[1572] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 198, warning: 4 characters of junk seen at toplevel
+[1572] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 209, warning: 4 characters of junk seen at toplevel
+[1572] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 220, warning: 4 characters of junk seen at toplevel
+[1572] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 231, warning: 4 characters of junk seen at toplevel
+[1572] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 240, warning: 4 characters of junk seen at toplevel
+[1572] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 251, warning: 4 characters of junk seen at toplevel
+[1573] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 258, warning: 4 characters of junk seen at toplevel
+[1573] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 269, warning: 4 characters of junk seen at toplevel
+[1573] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 277, warning: 4 characters of junk seen at toplevel
+[1573] Utils.pm:304> WARN - BibTeX subsystem: C:\Users\nixtropy\AppData\Local\Temp\biber_tmp_J5w0\articulos.bib_8092.utf8, line 288, warning: 4 characters of junk seen at toplevel
+[1607] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1607] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1608] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1608] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[1632] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1641] bbl.pm:755> INFO - Output to main.bbl
+[1642] Biber.pm:128> INFO - WARNINGS: 29
